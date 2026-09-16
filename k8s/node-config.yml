@@ -5,4 +5,4 @@ metadata:
   name: node-config
 
 data:
-  MONGO_URI: "mongodb://mongodb-0.mongodb:27017,mongodb-1.mongodb:27017,mongodb-2.mongodb:27017/college?replicaSet=rs0"
+  MONGO_URI: "mongodb://mongodb-0.mongodb:27017,mongodb-1.mongodb:27017,mongodb-2.mongodb:27017/jobportal?replicaSet=rs0"

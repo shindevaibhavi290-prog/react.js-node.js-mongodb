@@ -19,7 +19,6 @@ spec:
     spec:
       containers:
         - name: react
-          image: shindevaibhavi11/mern-frontend:v1
-
+          image: shindevaibhavi11/mern-frondend:v4
           ports:
             - containerPort: 80

@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
         - name: node
-          image: shindevaibhavi11/mern-backend:v1
+          image: shindevaibhavi11/mern-backend:v3
 
           ports:
             - containerPort: 3000
